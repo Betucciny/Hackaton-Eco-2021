@@ -26,3 +26,5 @@ Para avanzar el proyecto se buscará adaptar una conexión de base de datos por 
 ## Implementación
 
 Para la implementación en otro dispositivo, se deberá modificar las diferentes partes del código que redireccionan a imagenes o a la base de datos, ya que estas se encontrarán en otra ubicación.
+
+Todo el código está escrito en c++ en bibliotecas de Qt6, por lo que para ejecutarlo se necesitará Qt Creator.
