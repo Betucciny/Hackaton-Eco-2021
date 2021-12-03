@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Inicio.png</file>
+        <file>Catalogo button.png</file>
+        <file>Catalogo icon.png</file>
+        <file>Check box historial.png</file>
+        <file>Codigo de producto.png</file>
+        <file>Exclamacion button.png</file>
+        <file>Font historial.png</file>
+        <file>Font objeto historial.png</file>
+        <file>Font.png</file>
+        <file>Hackaton2.pro</file>
+        <file>Logo head.png</file>
+        <file>Recoleccion icon.png</file>
+        <file>Scan button.png</file>
+        <file>Scrolling historial.png</file>
+        <file>usuario foto.png</file>
+        <file>Pantalla recolector.png</file>
+        <file>PET Icon.png</file>
+        <file>Vidrio Icon.png</file>
+    </qresource>
+</RCC>
